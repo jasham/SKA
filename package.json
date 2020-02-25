@@ -1,0 +1,56 @@
+{
+  "name": "page-responsive",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@expo/vector-icons": "^10.0.6",
+    "@fortawesome/fontawesome-free": "^5.12.1",
+    "@material-ui/core": "^4.9.3",
+    "@material-ui/icons": "^4.9.1",
+    "@mdi/font": "^4.9.95",
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.3.2",
+    "@testing-library/user-event": "^7.1.2",
+    "@trendmicro/react-sidenav": "^0.5.0",
+    "canvasjs": "^1.8.3",
+    "material-ui-icons": "^1.0.0-beta.36",
+    "pondjs": "^0.9.0",
+    "react": "^16.12.0",
+    "react-circular-progressbar": "^2.0.3",
+    "react-custom-radio": "^1.0.7",
+    "react-dom": "^16.12.0",
+    "react-feather": "^2.0.3",
+    "react-move": "^6.1.0",
+    "react-native-vector-icons": "^6.6.0",
+    "react-scripts": "3.4.0",
+    "react-simple-dropdown": "^3.2.3",
+    "react-timeseries-charts": "^0.16.1",
+    "react-vis": "^1.11.7",
+    "recharts": "^2.0.0-beta.1",
+    "styled-components": "^5.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@mdi/react": "^1.3.0"
+  }
+}
